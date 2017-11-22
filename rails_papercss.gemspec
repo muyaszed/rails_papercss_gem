@@ -7,11 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "rails_papercss"
   spec.version       = RailsPapercss::VERSION
   spec.authors       = ["Yazed Jamal"]
-  spec.email         = ["muyaszed@gmail.com"]
+  spec.email         = ["myazed.jamal@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Rails gem for Papercss framework.}
+  spec.homepage      = "https://github.com/muyaszed/rails_papercss_gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
