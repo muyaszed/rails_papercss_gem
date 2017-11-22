@@ -24,7 +24,7 @@ Or install it yourself as:
 
 Include the css file in the application.css
 ```css
-//app/assets/stylesheets/application.css
+/*app/assets/stylesheets/application.css*/
 @import "paper.min.css";
 ```
 
